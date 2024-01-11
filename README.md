@@ -1,6 +1,8 @@
-# The University of Miami Miller School of Medicine John P. Hussman Institute for Human Genomics
-# Welcome to the HIHG! 
+# The University of Miami 
 ![image](https://github.com/hihg-um/hihg-um.github.io/assets/3654160/ba4160bd-8206-4f2b-9da4-2ad31c19c02b)
+# Miller School of Medicine John P. Hussman Institute for Human Genomics
+
+# Welcome to the HIHG! 
 
 This site is currently under construction.
 
